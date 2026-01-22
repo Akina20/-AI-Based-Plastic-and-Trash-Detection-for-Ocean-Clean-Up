@@ -50,7 +50,6 @@ Helps protect marine life and reduce ocean pollution.
 ## 👤 Author
 
 **Akina S**
----
 **Akshaya M**
 
 
