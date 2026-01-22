@@ -1,11 +1,7 @@
 # -AI-Based-Plastic-and-Trash-Detection-for-Ocean-Clean-Up
 This project uses AI and YOLO to detect plastic waste and trash in oceans from images or videos. It helps identify polluted areas and supports faster, efficient clean-up to protect marine life and the environment.
 
-Here is a **very simple, short, and complete `README.md`** you can directly **copy–paste** into GitHub 👇
 
----
-
-# 🌊 AI-Based Plastic and Trash Detection for Ocean Clean-Up
 
 ## 📌 Overview
 
@@ -56,7 +52,5 @@ Helps protect marine life and reduce ocean pollution.
 **Akina S**
 **Akshaya M**
 
----
 
-If you want an **even shorter README** or **one-page only**, tell me 👍
 
